@@ -1,6 +1,6 @@
-# SonicRunners 
+# SRU18 
 
-* A merge of mine and mattkc's Sonic Runners Decomps
+* A merge of mine and mattkc's Sonic Runners Decomps but also a port of the decomps to Unity 2018
 
 # How to setup silly Sonic Runners Decompilation
 
