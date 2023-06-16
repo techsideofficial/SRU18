@@ -54,32 +54,32 @@ internal class NetBaseUtil
 
 	private static string[] mAssetURLTable = new string[11]
 	{
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/",
-		"http://10.0.0.182:8000/assets/"
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/",
+		"https://tydevx.github.io/Runners-Assets/assets/"
 	};
 
 	private static string[] mInformationURLTable = new string[11]
 	{
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/",
-		"http://10.0.0.182:8000/information/"
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/",
+		"https://tydevx.github.io/Runners-Assets/information/"
 	};
 
 	private static string mRedirectInstallPageUrl = "https://play.google.com/store/apps/details?id=com.sega.sonicrunners";
