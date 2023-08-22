@@ -36,7 +36,7 @@ By: SnesFX/TyDev
     
 15. Repeat step 14 for `mSecureActionServerUrlTable`
     
-16. If you have an assets server, use its IP and port to replace the values in `mAssetURLTable` and `mInformationURLTable` to `http://<IP>:<PORT>/assets/` and `http://<IP>:<PORT>/information/` respectively
+16. If you have an assets server, use its IP and port to replace the values in `mAssetURLTable` and `mInformationURLTable` to `http://<IP>:<PORT>/assets/` and `http://<IP>:<PORT>/information/` respectively (No point in really doing this since I already have a server set up)
     
 17. Click File -> Save File
     
