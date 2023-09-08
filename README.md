@@ -48,6 +48,6 @@ By: SnesFX/TyDev
 
 # Credits
 
-* SnesFX - Decomp
+* TyDev - Decomp and Porter
 
 * MattKc - Decomp
