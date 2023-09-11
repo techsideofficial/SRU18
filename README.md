@@ -1,6 +1,6 @@
 # SRU18 
 
-* A merge of mine and mattkc's Sonic Runners Decomps but also a port of the decomps to Unity 2018
+* A merge of TyDev's and mattkc's Sonic Runners Decomps but also a port of the decomps to Unity 2018
 
 # How to setup silly Sonic Runners Decompilation
 
@@ -48,6 +48,8 @@ By: SnesFX/TyDev
 
 # Credits
 
-* TyDev - Decomp and Porter
+* BlitzEX - Owner
+
+* TyDev - Decomp, Porter, and original owner
 
 * MattKc - Decomp
