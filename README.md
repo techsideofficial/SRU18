@@ -2,45 +2,42 @@
 
 * A merge of TyDev's and mattkc's Sonic Runners Decomps but also a port of the decomps to Unity 2018
 
-# How to setup silly Sonic Runners Decompilation
+# How to setup SRU18
 
-By: SnesFX/TyDev
+By: SnesFX/Blitzdotcs
 
-1. Download files from repo (duh!1111)
+1. Download files from this repo using
+`git clone https://github.com/blitzdotcs/SRU18.git `
 
-2. Extract files from repo (duh x2!!1111)
+2. Download the files from [here](https://github.com/itsmattkc/RunnersAssetBundleDecomp)
 
-3. Download the files from [here](https://github.com/itsmattkc/RunnersAssetBundleDecomp)
+3. Open the zip and Open the RunnersAssetBundleDecomp-master folder
 
-4. Open the zip and Open the RunnersAssetBundleDecomp-master folder
+4. Extract the files
 
-5. Copy the files
+5. Go to wherever you extracted the decomp and go into the Assets folder
 
-6. Go to wherever you extracted the decomp and go into the Assets folder
+6. Make a folder called AssetBundles
 
-7. Make a folder called AssetBundles
+7. Paste Everything there
 
-8. Paste Everything there
+8. Download Unity 2018.2.19f1 if you don't have it
 
-9. Download Unity 2018.2.19f1 if you don't have it
+9. Open the project in Unity
 
-10. Open the project in Unity
+10. Build or Download [Outrun](https://github.com/fluofoxxo/outrun)
 
-11. Build or Download [Outrun](https://github.com/fluofoxxo/outrun)
-
-12. Navigate to Assets/Scripts/ and open NetBaseUtil.cs with VSC
+11. Navigate to Assets/Scripts/ and open NetBaseUtil.cs with VSC
     
-13. Find the variable `mActionServerUrlTable `
+12. Find the variable `mActionServerUrlTable `
     
-14. Edit every string in the `mActionServerUrlTable` array to `http://<IP>:<PORT>/` where `<IP>` is replaced by the IP for your instance and `<PORT>` is replaced by the port for your instance (Default: 9001)
+13. Edit every string in the `mActionServerUrlTable` array to `http://<IP>:<PORT>/` where `<IP>` is replaced by the IP for your instance and `<PORT>` is replaced by the port for your instance (Default: 9001)
     
-15. Repeat step 14 for `mSecureActionServerUrlTable`
+14. Repeat step 14 for `mSecureActionServerUrlTable`
     
-16. If you have an assets server, use its IP and port to replace the values in `mAssetURLTable` and `mInformationURLTable` to `http://<IP>:<PORT>/assets/` and `http://<IP>:<PORT>/information/` respectively (No point in really doing this since I already have a server set up)
+15. Click File -> Save File
     
-17. Click File -> Save File
-    
-18. Enjoy!
+16. Enjoy!
 
 # Note
 
